@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 35px;
+width: 70%;
+margin: 0px;
+color: white;
+margin-top: 20px;
+font-weight: bolder;
+}
+
+#status
+{
+font-size: 18px;
+color: lavender;
+font-weight: bold;
+}
+
+#baby_status{
+    font-size: 18px;
+    color: lavender;
+    border: 1px 1px lavender;
+    font-weight: bold;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    border: 2px 2px solid ;
+    border-color: plum;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px white;
+    margin-top: 100px;
+}
+
